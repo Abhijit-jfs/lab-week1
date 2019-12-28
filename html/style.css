@@ -1,0 +1,35 @@
+body {
+    background-color: #fcfcfc;
+}
+
+header {
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    display: block;
+    height: 50px;
+}
+
+header span {
+    text-decoration: underline;
+    font-size: x-large;
+    line-height: 50px;
+    padding: 20px;
+}
+
+.container {
+    width: 640px;
+    margin-top: 40px;
+}
+
+.upload-button {
+    background-color: #1BBC9B;
+    color: white;
+}
+
+.register-button {
+    background-color: #27A7D4;
+    color: white;
+    padding: 10px 60px;
+}
